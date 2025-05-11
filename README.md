@@ -1,4 +1,4 @@
-# ![Profile name](img\github-header-image.png)
+# ![Profile name](github-header-image.png)
 
 ![Athirah](dhl1xdz-68550e19-587d-4a27-937e-7b4b092b6d0f.gif)
 
